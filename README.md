@@ -2,10 +2,10 @@
 
 ## Notes for Development of Project Interior:
 
-### Company Name: First Class Interiors
+### Company Name: ==First Class Interiors==
 
 ### What they do?
-This company is famous for its high-quality interior design solutions for all kinds of
+This company is famous for its **high-quality interior design solutions** for all kinds of
 premises like houses, restaurants, schools, offices, casinos, and many more.
 
 ### Requirments:
