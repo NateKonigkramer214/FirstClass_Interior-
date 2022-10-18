@@ -35,4 +35,4 @@ There should be one horizontal navigation bar on every page so that it should be
 
 4:
 
-` test code `
+`Code languages used: HTML/Bootstrap, CSS, Javascript/React`
