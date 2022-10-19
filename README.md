@@ -1,8 +1,6 @@
-# FirstClass_Interior-
+# FirstClass_Interior - Megabyte LTD
 
-## Notes for Development of Project Interior:
-
-### Company Name: First Class Interiors
+### Client Name: First Class Interiors
 
 ### What they do?
 This company is famous for its **high-quality interior design solutions** for all kinds of
