@@ -33,4 +33,9 @@ There should be one horizontal navigation bar on every page so that it should be
 
 4:
 
+### Purpose
+
+
+
+
 `Code languages used: HTML/Bootstrap, CSS, Javascript/React`
