@@ -25,13 +25,11 @@ This page should contain the images of items along with the price which they are
 There should be one horizontal navigation bar on every page so that it should be easy for users to switch between all the pages.
 
 ### Client Requirments:
-1:
+1: Update Logo and headings 
 
-2:
+2:Contact us page update font size
 
-3:
-
-4:
+3: Add new shop items 
 
 ### Purpose
 
