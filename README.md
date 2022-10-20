@@ -33,15 +33,10 @@ There should be one horizontal navigation bar on every page so that it should be
 
 ### Purpose
 
-In this project we have to learn how to work with clients and work as a team to complete a given task.
+In this project we have to learn how to work with clients and work as a team to complete a given task in this case my task was developer/designer.
 
-You must use the Waterfall Methodology to show how you planned each step of your project. You must research the Waterfall Methodology, gather the requirements from the client and implement the project using Waterfall Methodology. 
-
-For this project, you will be working in teams using Role-Play to create a professional work environment for project completion. However, it will be an individual submission for each student. 
 
 ### By the end of this project: 
-
--Understand the different phases of the Software Development Life Cycle( SDLC) including different requirement gathering techniques, designing, coding, and quality assurance/testing. 
 
 -Have an understanding of the Waterfall Methodology
 
@@ -49,9 +44,11 @@ For this project, you will be working in teams using Role-Play to create a profe
 
 -Apply previous knowledge of Wireframes and Design to your Planning
 
+We must use the Waterfall Methodology to show how you planned each step of your project. You must research the Waterfall Methodology, gather the requirements from the client and implement the project using Waterfall Methodology. 
 
+For this project, we will be working in teams using Role-Play to create a professional work environment for project completion. 
 
-
+We Understand the different phases of the Software Development Life Cycle( SDLC) including different requirement gathering techniques, designing, coding, and quality assurance/testing. 
 
 
 `Code languages used: HTML/Bootstrap, CSS, Javascript/React`
