@@ -19,7 +19,7 @@ function changeMD(){
 		CEO_HEADING.innerHTML = "CEO";
 		CEO_NAME.innerHTML = "John Look";
 		CEO_IMAGE.src = "images\ceo.jpg";
-		CEO_PARA.innerHTML = "John Look , 26, has been the CEO for Captivate Interiors for 4 years. Look is responsible for managing a company's overall operations which include delegating and directing agendas, driving profitability, managing company organizational structure, strategy, and communicating with the board. He ensures Captivate Interiors runs at a profit and smoothly at all times. ";
+		CEO_PARA.innerHTML = "John Look , 26, has been the CEO for First Class Interiors for 4 years. Look is responsible for managing a company's overall operations which include delegating and directing agendas, driving profitability, managing company organizational structure, strategy, and communicating with the board. He ensures First Class Interiors runs at a profit and smoothly at all times. ";
 		CEO_BUTTON.innerHTML = "Change to MD";
 	}
 };
